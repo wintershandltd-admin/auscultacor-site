@@ -1,9 +1,9 @@
 Fonts in this folder are licensed under the SIL Open Font License 1.1.
 
-Bricolage Grotesque, Source Serif 4 and IBM Plex Mono, packaged by Fontsource (fontsource.org).
+DM Serif Display, Source Serif 4 and IBM Plex Mono, packaged by Fontsource (fontsource.org).
 
-==== fontsource-variable-bricolage-grotesque-5.3.0 ====
-Copyright 2022 The Bricolage Grotesque Project Authors (https://github.com/ateliertriay/bricolage)
+==== fontsource-dm-serif-display ====
+Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC. DMSerifDisplay-Italic.ttf: Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
